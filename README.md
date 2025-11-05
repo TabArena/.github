@@ -9,7 +9,7 @@ This organization is used for some part of our ecosystem.
 >
 > 👉 **[TabArena Code](https://tabarena.ai/code)**
 >
-> 👉 **[TabArena Examples](https://tabarena.ai/code-examples)** ❤️
+> 👉 **[TabArena Examples](https://tabarena.ai/code-examples)**
 >
 > 👉 **[Publication](https://tabarena.ai/paper-tabular-ml-iid-study)** 
 >
